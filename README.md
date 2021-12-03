@@ -27,12 +27,12 @@
  [Team Profile Generator](../assets/teamGenerator.png)
 
   Video to run tests:
+  [Team Profile Generator Test](../assets/teamGeneratorTest.webm)
   
-  <br>
   Video to run command lines:
+  [Team Profile Generator Commands](../assets/teamGeneratorCommand.webm)
 
 
-  <br>
   
   ## License
   Copyright 2021 Meredith Coyne
