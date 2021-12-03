@@ -24,13 +24,13 @@
  run test using command `npm test` on all files in test folder.
 
  ## Demo
- [Team Profile Generator](../assets/teamGenerator.png)
+ ![Team Profile Generator](/assets/teamGenerator.png)
 
   Video to run tests:
-  [Team Profile Generator Test](../assets/teamGeneratorTest.webm)
+  [Team Profile Generator Test](https://youtu.be/xgxF-cjsJRI)
   
   Video to run command lines:
-  [Team Profile Generator Commands](../assets/teamGeneratorCommand.webm)
+  [Team Profile Generator Commands](https://youtu.be/l4Og3EsP09o)
 
 
   
