@@ -1,6 +1,14 @@
+:root {
+  --cardHeader: #303179;
+  --pageHeader: #141850;
+  --fontPage: #f5cac2;
+  --fontCard: #fae5df;
+}
+
+
 .team-heading {
-    background-color: #e84855;
-    color: #ffffff;
+    background-color: var(--pageHeader);
+    color: var(--fontPage);
   }
   
   .team-area {
@@ -14,8 +22,8 @@
     max-width: 280px;
     width: 90%;
     min-height: 22rem;
-    background-color: #007bff;
-    color: white;
+    background-color: var(--cardHeader);
+    color: var(--fontCard);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
